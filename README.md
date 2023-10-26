@@ -5,9 +5,31 @@ This repo contains a curative list of **papers using Large Language/Multi-Modal 
 #### Please feel free to send me [pull requests](https://github.com/GT-RIPL/Awesome-LLM-Robotics/blob/main/how-to-PR.md) or [email](mailto:zkira-changetoat-gatech--changetodot-changetoedu) to add papers! <br>
 
 If you find this repository useful, please consider [citing](#citation) and STARing this list. Feel free to share this list with others!
-
 ---
-## Overview
+## LLM Overview
+
+LLM architecture, fine-tune techniques
+* **[Survey]** "A Survey of Large Language Models", *arXiv, Sep 2023*.
+[[Paper](https://arxiv.org/pdf/2303.18223)] [[Website](https://github.com/RUCAIBox/LLMSurvey)]
+
+## AI Agent
+* **[Survey]** "The Rise and Potential of Large Language Model
+Based Agents: A Survey", *arXiv, Sep 2023*.
+[[Paper](https://arxiv.org/pdf/2309.07864v3.pdf)][[Website](https://github.com/woooodyy/llm-agent-paper-list)]
+
+
+## LLM to RL Rewards 
+
+* "Language to Rewards for Robotic Skill Synthesis", *arXiv, July 2023*.
+[[Paper](https://arxiv.org/pdf/2306.08647.pdf)] 
+* "Reward Design with Language Modesl", *arXiv, Feb 2023*.
+[[Paper](https://arxiv.org/pdf/2303.00001.pdf)] 
+* "Self-Refined Large Language Model as Automated
+Reward Function Designer for Deep Reinforcement
+Learning in Robotics", *arXiv, Oct 2023*.
+[[Paper](https://arxiv.org/pdf/2309.06687.pdf)] 
+---
+## LLM with Robotics
 
   - [Reasoning](#reasoning)
   - [Planning](#planning)
