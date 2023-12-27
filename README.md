@@ -16,7 +16,8 @@ LLM architecture, fine-tune techniques
 * **[Survey]** "The Rise and Potential of Large Language Model
 Based Agents: A Survey", *arXiv, Sep 2023*.
 [[Paper](https://arxiv.org/pdf/2309.07864v3.pdf)][[Website](https://github.com/woooodyy/llm-agent-paper-list)]
-
+* **[Survey]** "Emergent autonomous scientific research capabilities of large language models", *arXiv, April 2023*.
+[[Paper](https://arxiv.org/abs/2304.05332)]
 
 ## LLM to RL Rewards 
 
